@@ -4,6 +4,8 @@ Lokaverkefni í `TÖL025M - Inngangur að máltækni`.
 
 Verkefnið skoðar lyndisgreiningu á íslenskum fréttafyrirsögnum frá DV, Vísi og RÚV.
 
+Við vinnslu verkefnisins voru einnig notuð gervigreindarverkfæri til aðstoðar við forritun og úrvinnslu, nánar tiltekið GitHub Copilot og OpenAI Codex.
+
 Niðurstöður og myndir má finna í:
 
 - `sentiment_comparison.ipynb`
