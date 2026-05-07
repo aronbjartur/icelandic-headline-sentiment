@@ -4,6 +4,8 @@ Lokaverkefni í `TÖL025M - Inngangur að máltækni`.
 
 Verkefnið skoðar lyndisgreiningu á íslenskum fréttafyrirsögnum frá DV, Vísi og RÚV.
 
+Niðurstöður má finna í `sentiment_comparison.ipynb`
+
 Helstu skrár:
 
 - `dv.py`
@@ -12,7 +14,6 @@ Helstu skrár:
 - `sentiment_preprocess.py`
 - `icebert_sentiment.py`
 - `dvHreinsun.py`
-- `sentiment_comparison.ipynb`
 
 Gögn eru í `gogn/` og samanteknar niðurstöður í:
 
